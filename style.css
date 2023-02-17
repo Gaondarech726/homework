@@ -1,0 +1,143 @@
+* {
+    font-family: 'Montserrat Alternates', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5, h6, p, ol, ul {
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
+}
+
+main {
+    margin-top: 20px;
+}
+
+nav {
+    background-color: #fff5e7;
+}
+
+ul {
+    margin-left: 875px;
+}
+
+li {
+    padding: 10px;
+    display: inline-block;
+}
+
+button {
+    color: burlywood;
+    font-size: 20px;
+    border: none;
+    background-color: #fff5e7;
+}
+
+button:hover {
+    color: #fdc377;
+    cursor: pointer;
+}
+
+.header-container {
+    display: flex;
+    width: 1440px;
+    padding-top: 104px;
+    padding-left: 133px;
+    padding-right: 133px;
+    padding-bottom: 168px;
+    background-color: white;
+}
+
+.header-title {
+    margin-left: 10px;
+    margin-top: 100px;
+    margin-bottom: 53px;
+    font-size: 24px;
+    line-height: 45px;
+    font-weight: 300px;
+}
+
+.header-subtitle {
+    margin-bottom: 43px;
+    font-size: 150px;
+    line-height: 230px;
+}
+
+.header-description {
+    margin-left: 10px;
+    margin-bottom: 61px;
+    font-size: 32px;
+    line-height: 50px;
+}
+
+.buy-wrapper {
+    display: flex;
+}
+
+.buy-link {
+    margin-left: 10px;
+    display: block;
+    width: 278px;
+    height: 82px;
+    background-color: #161515;
+    color: white;
+    text-decoration: none;
+    font-size: 32px;
+    line-height: 82px;
+    text-align: center;
+}
+
+.buy-link:hover {
+    color: bisque;
+}
+
+.price {
+    width: 143px;
+    height: 82px;
+    background-color: white;
+    color: #272727;
+    text-decoration: none;
+    font-size: 32px;
+    line-height: 82px;
+    text-align: center;
+}
+
+.header-img {
+    display: block;
+    width: 872px;
+    margin-top: -604px;
+    margin-left: 1000px;
+}
+
+.instruction {
+    font-weight: 400;
+    font-size: 48px;
+    margin-left: 890px;
+}
+
+p {
+    margin-left: 10px;
+}
+
+.analogii {
+    font-weight: 400;
+    font-size: 48px;
+    margin-left: 930px;
+}
+
+.analogi-all{
+    font-weight: 400;
+    font-size: 18px;
+    margin-left: 940px;
+}
+
+a {
+    color: #ff9100;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #fdc377;
+}
